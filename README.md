@@ -1,2 +1,3 @@
 # auk-demo01
-This is my the first Git Repository
+This is my first Git Repo.
+
